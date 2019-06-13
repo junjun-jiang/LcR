@@ -1,8 +1,25 @@
 The code is for the work:
 
-[1] Junjun Jiang, Ruimin Hu, Zhen Han, Tao Lu, Kebin Huang, “Position-Patch Based Face Hallucination via Locality-constrained Representation,” in the International Conference on Multimedia and Expo (ICME 2012), Melbourne, Australia, pp. 212-217, Jul 2012.
+```
+@inproceedings{jiang2012position,
+  title={Position-patch based face hallucination via locality-constrained representation},
+  author={Jiang, Junjun and Hu, Ruimin and Han, Zhen and Lu, Tao and Huang, Kebin},
+  booktitle={2012 IEEE International Conference on Multimedia and Expo},
+  pages={212--217},
+  year={2012},
+  organization={IEEE}
+}
 
-[2] Junjun Jiang, Ruimin Hu, Zhongyuan Wang, and Zhen Han, “Noise Robust Face Hallucination via Locality-constraint Representation,” IEEE Transaction on Multimedia (IEEE-TMM), 2014. Digital Object Identifier: 10.1109/TMM.2014.2311320
+@article{jiang2014face,
+  title={Face super-resolution via multilayer locality-constrained iterative neighbor embedding and intermediate dictionary learning.},
+  author={Jiang, Junjun and Hu, Ruimin and Wang, Zhongyuan and Han, Zhen},
+  journal={IEEE Transactions on Image Processing},
+  volume={23},
+  number={10},
+  pages={4220--4231},
+  year={2014}
+}
+```
 
 You can run the Demo_LcR.m
 
